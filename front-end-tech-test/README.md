@@ -16,7 +16,11 @@ para poder Instalar el servidor  Express y la instalacion inicial del proyecto e
 npm run dev
 ```
 
-verificar que la dependencia `react-router-dom` este intalada y instalarla en caso de que no
+verificar que la dependencia `react-router-dom` este intalada y instalarla en caso de que no este.
+
+Y visualizara la siguente vista
+
+![page](https://github.com/gabiinicial/front-end-test-ecomsur/blob/main/front-end-tech-test/front/page.png)
 
 ## Estructura
 
