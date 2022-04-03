@@ -1,0 +1,36 @@
+.ModalProduct{
+    background-color: #7489a1;
+    width: 40%;
+    position: absolute;
+    z-index: 2;
+    top: 100px;
+    left: 60%;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-right: 4rem;
+}
+.closeButton,
+.removeButton{
+    width:100px;
+    height:40px;
+    margin: 10px;
+    float: right;
+    background-color: #fef9ef;
+    border: none;
+    border-radius: 10px;
+    color: #023e8a; 
+    box-shadow: none;
+}
+.modalTitle,
+.modalPrice,
+.modalStock,
+.modalRef{
+   color: #fef9ef;
+   padding-left: 20px;
+   font-weight: 600;
+   margin: 0.5em;
+}
+.modalImg{
+    width: 100%;
+    height: 350px;
+}

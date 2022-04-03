@@ -1,0 +1,32 @@
+.displayProduct{
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    margin:3rem 1rem;
+}
+.prodImg{
+display: flex;
+flex-direction: column;
+width: 45%;
+padding: 1rem;
+}
+.displayDescription{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+.prodName{
+    color: #023E8A;
+    font-size: 1.7em;
+}
+.buttonProd{
+    width:100px;
+    height:40px;
+    margin-top: 50px;
+    background-color: #caf0f8;
+    border: 2px solid #adb5bd;
+    border-radius: 10px;
+    color: #023E8A;
+}
