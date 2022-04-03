@@ -20,4 +20,4 @@ verificar que la dependencia `react-router-dom` este intalada y instalarla en ca
 
 ## Estructura
 
-(./front/diagrama.png)
+![](./front/diagrama.png)
